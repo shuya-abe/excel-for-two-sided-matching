@@ -31,5 +31,5 @@ For detailed usage instructions, please refer to the following manual.
 
 ## Author
 
-*   Shuya Abe
+*   [Shuya Abe](https://abe-network.com/)
 *   [Naoki Watanabe](https://naoki-watanabe50.github.io/index.html)
